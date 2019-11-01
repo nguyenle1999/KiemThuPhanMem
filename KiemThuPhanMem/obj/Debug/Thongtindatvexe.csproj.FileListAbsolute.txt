@@ -1,0 +1,9 @@
+C:\kiemthuphanmem\Thongtindatvexe\Thongtindatvexe\bin\Debug\Thongtindatvexe.exe.config
+C:\kiemthuphanmem\Thongtindatvexe\Thongtindatvexe\bin\Debug\Thongtindatvexe.exe
+C:\kiemthuphanmem\Thongtindatvexe\Thongtindatvexe\bin\Debug\Thongtindatvexe.pdb
+C:\kiemthuphanmem\Thongtindatvexe\Thongtindatvexe\obj\Debug\Thongtindatvexe.csprojResolveAssemblyReference.cache
+C:\kiemthuphanmem\Thongtindatvexe\Thongtindatvexe\obj\Debug\Thongtindatvexe.Form1.resources
+C:\kiemthuphanmem\Thongtindatvexe\Thongtindatvexe\obj\Debug\Thongtindatvexe.Properties.Resources.resources
+C:\kiemthuphanmem\Thongtindatvexe\Thongtindatvexe\obj\Debug\Thongtindatvexe.csproj.GenerateResource.Cache
+C:\kiemthuphanmem\Thongtindatvexe\Thongtindatvexe\obj\Debug\Thongtindatvexe.exe
+C:\kiemthuphanmem\Thongtindatvexe\Thongtindatvexe\obj\Debug\Thongtindatvexe.pdb
